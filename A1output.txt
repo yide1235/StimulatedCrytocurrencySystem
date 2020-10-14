@@ -1,0 +1,3172 @@
+# create four investors
+
+Success. 
+Investor One invone 1000
+Success.
+Investor Two invtwo 1000
+
+Success.
+Investor Three invthree 1000
+
+Success.
+Investor Four invfour 0
+# attempt to create duplicate investor
+
+Duplicate.
+I Nvone invone 1000
+# create five cryptocurrencies
+
+Success. 
+CRYPTO1 CRY1 1000
+Success. 
+CRYPTO2 CRY2 1000
+
+Success. 
+CRYPTO3 CRY3 1000
+
+Success. 
+CRYPTO4 CRY4 1000
+
+Success. 
+CRYPTO5 CRY5 1000
+# attempt to create duplicate cryptocurrency
+
+Duplicate. 
+CRYPTO55 CRY5 0
+# successful mines
+
+MINE Success.  add to Bloackchain of Crypto  CRY1
+
+
+MINE Success.  add to Bloackchain of Crypto  CRY1
+
+
+MINE Success.  add to Bloackchain of Crypto  CRY5
+
+
+MINE Success.  add to Bloackchain of Crypto  CRY2
+
+
+MINE Success.  add to Bloackchain of Crypto  CRY3
+
+
+MINE Success.  add to Bloackchain of Crypto  CRY3
+
+
+MINE Success.  add to Bloackchain of Crypto  CRY3
+
+
+MINE Success.  add to Bloackchain of Crypto  CRY5
+
+# investor not found
+
+Investor not found.
+
+# currency not found
+
+Insufficient Currency.
+
+# insufficient funds - CRY4
+
+Insufficient Currency.
+
+# insufficient funds - CRY1
+
+Insufficient Currency.
+
+# trade - currency not found - CRY7
+
+Currency not found.
+
+# trade - investor not found - invten
+
+Investor Not Found 
+
+# trade - multiple not founds - only needs to detect one
+
+Investor Not Found 
+
+# trade - insufficient funds for one investor - held
+
+Insufficient currency.
+
+# trade - insufficient funds for one investor - not held
+
+Currency not found.
+
+# trade - insufficient funds for both investors - held - only needs to detect one
+
+Insufficient currency.
+
+# trade - insufficient funds for both investors - not held - only needs to detect one
+
+Currency not found.
+
+# trade - insufficient CAD
+
+Insufficient currency.
+
+# trade - same trader
+
+Same investor.
+
+# trade - multiple errors - only needs to report one
+
+Investor Not Found 
+
+# successful trade - both cryptos, both new
+
+TRADE Success. add to Bloackchain of Crypto  CRY2
+
+
+Success. add to Bloackchain of Crypto  CRY3
+
+# successful trade - both cryptos, both existing
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY5
+
+# successful trade - one CAD - new currency
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+# successful trade - one CAD - existing currency
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+# successful trade - both cryptos same
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+# some .. uh .. more trades.
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+
+TRADE Success. add to Bloackchain of Crypto  CRY1
+
+
+Success. add to Bloackchain of Crypto  CRY1
+
+# successful trade - investor is traded out of a currency
+
+Insufficient currency.
+
+# nonexistent crypto report
+
+Cryptocurrency is: CRYPTO1 CRY1 avaliable units is: 100
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CAD 100 500 
+
+
+TRADE invone invtwo CRY1 CAD 100 500 
+
+
+TRADE invone invthree CRY1 CAD 200 500 
+
+
+TRADE invone invthree CRY1 CAD 200 500 
+
+
+TRADE invone invtwo CRY1 CRY5 100 5 
+
+
+MINEinvtwo CRY1 400
+
+
+MINEinvone CRY1 500
+
+# report all cryptos
+
+Cryptocurrency is: CRYPTO1 CRY1 avaliable units is: 100
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 101 100 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CRY1 100 101 
+
+
+TRADE invone invtwo CRY1 CAD 100 500 
+
+
+TRADE invone invtwo CRY1 CAD 100 500 
+
+
+TRADE invone invthree CRY1 CAD 200 500 
+
+
+TRADE invone invthree CRY1 CAD 200 500 
+
+
+TRADE invone invtwo CRY1 CRY5 100 5 
+
+
+MINEinvtwo CRY1 400
+
+
+MINEinvone CRY1 500
+
+
+Cryptocurrency is: CRYPTO2 CRY2 avaliable units is: 0
+
+
+TRADE invone invtwo CRY2 CRY3 100 100 
+
+
+MINEinvone CRY2 1000
+
+
+Cryptocurrency is: CRYPTO3 CRY3 avaliable units is: 500
+
+
+TRADE invone invtwo CRY2 CRY3 100 100 
+
+
+MINEinvtwo CRY3 200
+
+
+MINEinvthree CRY3 200
+
+
+MINEinvthree CRY3 100
+
+
+Cryptocurrency is: CRYPTO4 CRY4 avaliable units is: 1000
+
+
+Cryptocurrency is: CRYPTO5 CRY5 avaliable units is: 980
+
+
+TRADE invone invtwo CRY1 CRY5 100 5 
+
+
+MINEinvone CRY5 10
+
+
+MINEinvtwo CRY5 10
+
+# nonexistent report investor
+
+Not found.
+
+# report all investors
+
+invone :
+
+CRYPTO3 CRY3 100
+CRYPTO5 CRY5 10
+CRYPTO2 CRY2 900
+CRYPTO1 CRY1 200
+
+invtwo :
+
+CRYPTO2 CRY2 100
+CRYPTO3 CRY3 100
+CRYPTO5 CRY5 10
+CRYPTO1 CRY1 900
+
+invthree :
+
+CRYPTO1 CRY1 200
+CRYPTO3 CRY3 200
+CRYPTO3 CRY3 100
+
+invfour :
+
+# END
+DONE.
+
+End of processing.
+
+
+
